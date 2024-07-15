@@ -84,12 +84,8 @@ nav a:hover {
     display: block;
 }
 
-.content {
-    text-align: center;
-    padding: 2em;
-    flex: 1;
-}
 
+.content {
     text-align: center;
     padding: 2em;
     flex: 1;
