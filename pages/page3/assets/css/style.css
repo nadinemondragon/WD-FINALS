@@ -1,6 +1,5 @@
-
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-color: #ffffff;
     margin: 0;
     padding: 0;
@@ -19,7 +18,7 @@ header {
     border-radius: 0 0 20px 20px;
 }
 
-nav {
+nnav {
     text-align: center;
     margin: 0.5em 0;
 }
@@ -85,32 +84,76 @@ nav a:hover {
     display: block;
 }
 
-
 .content {
     text-align: center;
     padding: 2em;
     flex: 1;
 }
 
-.skill {
-    max-width: 600px;
-    margin: 2em auto;
-    padding: 1em;
-    background-color: #f0f0f0;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+.projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 2em;
 }
 
-.skill h2 {
-    font-size: 1.5em;
-    color: #333333;
+.project {
+    background-color: #f0f0f0;
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: calc (40px); 
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.3s ease;
+    margin-bottom: 40px;
+}
+
+.project:hover {
+    transform: translateY(-5px);
+}
+
+.project h2 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.8em;
     margin-bottom: 0.5em;
 }
 
-.skill p {
-    font-size: 1.1em;
-    color: #555555;
-    line-height: 1.6;
+.project p {
+    font-size: 1em;
+    line-height: 1.5;
+    margin-bottom: 1em;
+}
+
+.links {
+    display: none;
+    margin-top: auto;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.links a {
+    display: block;
+    margin-bottom: 0.5em;
+    text-decoration: none;
+    color: #333333;
+    font-size: 1em;
+    transition: color 0.3s;
+}
+
+.links a:hover {
+    color: #ffb6c1;
+}
+
+.project:hover .links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 footer {
