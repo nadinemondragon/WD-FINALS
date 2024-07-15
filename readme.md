@@ -108,3 +108,4 @@ WD-ProjectName
 |-|-|-|
 How to Write Better Git Commit Messages – A Step-By-Step Guide |	Guide in properly writing commit messages.	| (https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/) |
 CSS External Stylesheet	| Guide for proper CSS.	|https://www.w3schools.com/css/css_external.asp |
+WakaTime | Track coding activity | https://wakatime.com/@018ee58e-d89c-4b5a-88dd-c769205543fa/projects/uzqtckrfkl?start=2024-07-10&end=2024-07-16 |
