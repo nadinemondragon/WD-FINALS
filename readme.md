@@ -6,51 +6,29 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">FINALS: Portfolio</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+ Explore my curated portfolio showcasing meticulously crafted web design projects. Featuring my expertise in HTML, CSS, and creative design principles, each piece embodies a minimalist aesthetic and a palette of pastel tones, reflecting my dedication to delivering visually compelling and functional websites.
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+<!-- TODO: Change the zyx-0314 into your github username  --> nadinemondragon
+<!-- TODO: Change the WD-Template-Project into the same name of your folder --> WD-FINALS
+![](https://github.com/nadinemondragon/WD-FINALS)
 
 ---
 
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#overview">Overview</a>
-      <ol>
-        <li>
-          <a href="#key-components">Key Components</a>
-        </li>
-        <li>
-          <a href="#technology">Technology</a>
-        </li>
-      </ol>
-    </li>
-    <li>
-      <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
-    </li>
-    <li>
-      <a href="#resources">Resources</a>
-    </li>
-  </ol>
-</details>
 
+   
 ---
 
 ## Overview
@@ -60,23 +38,34 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project?
+  Personal Portfolio Website
+- Whats the purpose?
+  - The purpose of this project is to create a professional online presence that showcases your skills, previous works, and qualifications in web design and development.
+  - It serves as a digital resume and portfolio to impress potential clients, employers, or collaborators, demonstrating your expertise and creativity in the field.
+- What are key components?
+Home Page with Introduction and Contact Information
+Portfolio Section showcasing Projects
+Resume/CV Section featuring Education, Skills, Work Experience, and Achievements
+Contact Page
+- What technology used and how it is used?
+  HTML and CSS: Used for structuring the website and styling its elements to achieve a professional and visually appealing layout.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
+
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Introduction
+- Contact Information
+- Projects Showcase
+- Skills
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +106,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+How to Write Better Git Commit Messages – A Step-By-Step Guide |	Guide in properly writing commit messages.	| (https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/) |
+CSS External Stylesheet	| Guide for proper CSS.	|https://www.w3schools.com/css/css_external.asp |
